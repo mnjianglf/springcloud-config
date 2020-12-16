@@ -1,2 +1,2 @@
-config
-  info:helloworld
+server:
+  port: 3355
