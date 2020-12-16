@@ -1,2 +1,2 @@
-server:
-  port: 7788
+debug:
+  info: 7788
